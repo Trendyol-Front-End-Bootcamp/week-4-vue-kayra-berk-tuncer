@@ -48,7 +48,7 @@ a {
 }
 .starship-detail {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
   align-items: center;
